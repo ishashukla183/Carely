@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268329382699",
+    "project_id": "face-verse",
+    "storage_bucket": "face-verse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268329382699:android:e96a8b04573484b3038b6e",
+        "android_client_info": {
+          "package_name": "com.IshaShukla.faceverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268329382699-meeflcv7p141aen4t59v1ksbj2lcjn94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQE6HEkgcNqcdfoafWgd1ggt3EGXRC10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268329382699-meeflcv7p141aen4t59v1ksbj2lcjn94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
