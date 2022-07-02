@@ -1,4 +1,4 @@
-# faceverse
+# Carely
 
 A new Flutter project.
 
