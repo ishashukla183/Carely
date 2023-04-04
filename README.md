@@ -1,6 +1,6 @@
 # Carely
 
-#### An real-time face recognition app developed to aid patients with early stage dementia for the NetApp WIN 2022.
+#### A real-time face recognition app developed to aid patients with early stage dementia for the NetApp WIN 2022.
 ---
 ## Key Features
 ---
