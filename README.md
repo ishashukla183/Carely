@@ -17,13 +17,13 @@
 - Convert Tensorflow implementation of MobileFaceNet model to Tflite
 ---
 ## Face-recognition in real time
-<img src = "carely-images/add-realtime.jpg" style="height: 400px; width:180px;"/> <img src = "carely-images/add-realtime2.jpg" style="height: 400px; width:180px;"/> <img src = "carely-images/add-realtime3.jpg" style="height: 400px; width:180px;"/>
+<img src = "https://user-images.githubusercontent.com/93022787/229727602-e2267eaf-3c8e-4060-9410-81e0fa72a409.jpg" style="height: 400px; width:180px;"/><img src = "https://user-images.githubusercontent.com/93022787/229727901-0a2ecd64-7811-46ea-adc8-205bed2e0362.jpg" style="height: 400px; width:180px;"/><img src = "https://user-images.githubusercontent.com/93022787/229728012-cc3b158f-edb2-49fb-91a3-a1753899ce7d.jpg" style="height: 400px; width:180px;"/>
 ---
 ## Set reminders for medication
-<img src = "carely-images/add-medication.jpg" style="height: 400px; width:180px;"/> <img src = "carely-images/add-medication2.jpg" style="height: 400px; width:180px;"/> 
+<img src = "https://user-images.githubusercontent.com/93022787/229728458-5bc5001e-6285-4ff6-b498-d93a7c570099.jpg" style="height: 400px; width:180px;"/><img src = "https://user-images.githubusercontent.com/93022787/229728581-e568e412-b891-4df2-85f8-3a7b4551e3b9.jpg" style="height: 400px; width:180px;"/> 
 ---
 ## Get an alert for repeated calls
-<img src = "carely-images/call.jpg" style="height: 400px; width:180px;"/> <img src = "carely-images/call-2.jpg" style="height: 400px; width:180px;"/> 
+<img src = "https://user-images.githubusercontent.com/93022787/229728898-56631649-bc9c-4147-94c8-f3b7977bea41.jpg" style="height: 400px; width:180px;"/><img src = "https://user-images.githubusercontent.com/93022787/229729030-7c11650d-62cc-45a4-bf19-0fed5cfa0dc5.jpg" style="height: 400px; width:180px;"/> 
 
 ---
 ## Model used - FaceNet
